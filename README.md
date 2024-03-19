@@ -1,7 +1,7 @@
 # ITMO-Operational-Systems-labs-4-sem
 
 # [Labs](#lab-1)
-# [Tests](#test-2)
+# [Tests](#test-1)
 
 ## Lab 1
 
