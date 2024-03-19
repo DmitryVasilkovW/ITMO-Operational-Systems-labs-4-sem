@@ -1,8 +1,8 @@
 # ITMO-Operational-Systems-labs-4-sem
 
-# Labs
+# [Labs](1)
 
-## Lab 1
+## Lab 1 {#0}
 
 ### [task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReferenceAndTests/Lab1.md)
 
