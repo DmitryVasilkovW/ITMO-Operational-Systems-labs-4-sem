@@ -16,7 +16,7 @@ sed '/#TEMPLATE/d' $file_name > "${file_name%.*}.sh"
 
 file_name="${file_name%.*}.sh"
 
-sed -i '1i #!/bin/bash' $file_name
+sed -i '1i #!/bin/bash' ${file_name}
 
 trap 'rm -f "$file_name"' exit 1 INT
 
