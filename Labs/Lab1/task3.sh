@@ -12,7 +12,7 @@ while true; do
   
   case $option in
     1) nano ;;
-    2) ui ;;
+    2) vi ;;
     3) links ;;
     4) break ;;
     *) echo "incorrect input" ;;
