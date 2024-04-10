@@ -24,7 +24,7 @@ echo "Press ^C to cancel the installation"
 sleep 5
 echo -e "\033[2K\033[1A\033[2K"
 
-if [[ -f "$file_name" ]]; then
-    chmod +x "$$file_name"
-    echo "Created $$file_name"
+if [[ -f "${file_name}" ]]; then
+    chmod +x "${file_name}"
+    echo "Created ${file_name}"
 fi
