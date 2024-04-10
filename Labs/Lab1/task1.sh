@@ -1,11 +1,11 @@
 #!/bin/bash
 
 if [ "$#" -ne 3 ]; then
-    echo "requires you to enter 3 arguments you have entered $#"
+    echo "requires you to enter 3 arguments you have entered $*"
     exit 1
 fi
 
-max=-239
+max=$1
 
 for i in "$@"; do
     if [ "$i" -gt "$max" ]; then
