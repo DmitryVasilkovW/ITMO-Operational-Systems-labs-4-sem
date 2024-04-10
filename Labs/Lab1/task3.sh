@@ -15,6 +15,6 @@ while true; do
     2) vi ;;
     3) links ;;
     4) break ;;
-    *) echo "incorrect input" ;;
+    *) echo "incorrect input"
   esac
 done
