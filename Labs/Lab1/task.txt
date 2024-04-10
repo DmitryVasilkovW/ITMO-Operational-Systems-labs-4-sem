@@ -1,0 +1,7 @@
+#!/bin/bash
+#TEMPLATE
+#Version: 2.3.9
+
+while true; do
+  echo $((1 + 1))
+done
