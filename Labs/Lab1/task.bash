@@ -18,7 +18,7 @@ file_name="${file_name%.*}.sh"
 
 sed -i '1i #!/bin/bash' ${file_name}
 
-trap 'rm -f "$file_name"' exit 1 INT
+trap 'rm -f "${file_name%.*}.sh" exit 1 INT
 
 echo "Press ^C to cancel the installation"
 sleep 5
