@@ -1,0 +1,314 @@
+
+Average_Running_Children_of_ParentID= is 0
+PID=11 : ParPID=2 : AvRuntime=.00120150000000000000
+PID=121 : ParPID=2 : AvRuntime=.09769550127616130678
+PID=12 : ParPID=2 : AvRuntime=.00122050000000000000
+PID=135 : ParPID=2 : AvRuntime=.11894538931297709923
+PID=13 : ParPID=2 : AvRuntime=.00103500000000000000
+PID=143 : ParPID=2 : AvRuntime=.09213888461538461538
+PID=144 : ParPID=2 : AvRuntime=.02365650000000000000
+PID=14 : ParPID=2 : AvRuntime=.02833816666666666666
+PID=150 : ParPID=2 : AvRuntime=.11517437683224755700
+PID=15 : ParPID=2 : AvRuntime=.06993007685269899359
+Average_Running_Children_of_ParentID=2  is 0
+PID=1682 : ParPID=1 : AvRuntime=.24238899372384937238
+PID=1684 : ParPID=1 : AvRuntime=.22577047368421052631
+Average_Running_Children_of_ParentID=1  is 0
+PID=16 : ParPID=2 : AvRuntime=.06147861441815513476
+PID=171 : ParPID=2 : AvRuntime=.11006852859350850077
+PID=172 : ParPID=2 : AvRuntime=.04007450000000000000
+PID=17 : ParPID=2 : AvRuntime=.14231252786885245901
+PID=18 : ParPID=2 : AvRuntime=.00173800000000000000
+PID=19 : ParPID=2 : AvRuntime=.05761657142857142857
+Average_Running_Children_of_ParentID=2  is 0
+PID=1 : ParPID=0 : AvRuntime=.40006301960784313725
+Average_Running_Children_of_ParentID=0  is 0
+PID=20 : ParPID=2 : AvRuntime=.02261615384615384615
+Average_Running_Children_of_ParentID=2  is 0
+PID=211 : ParPID=1 : AvRuntime=.41624845472703062583
+PID=2185 : ParPID=1 : AvRuntime=.43654494957983193277
+Average_Running_Children_of_ParentID=1  is 0
+PID=21 : ParPID=2 : AvRuntime=.00060733333333333333
+Average_Running_Children_of_ParentID=2  is 0
+PID=2223 : ParPID=1 : AvRuntime=.39297788405797101449
+PID=2365 : ParPID=1 : AvRuntime=.52980232804232804232
+PID=2379 : ParPID=1 : AvRuntime=.25205337931034482758
+Average_Running_Children_of_ParentID=1  is 0
+PID=23 : ParPID=2 : AvRuntime=.10722508698539176626
+PID=240 : ParPID=2 : AvRuntime=.04213018750000000000
+PID=241 : ParPID=2 : AvRuntime=.10438528795264623955
+PID=246 : ParPID=2 : AvRuntime=.04225920000000000000
+PID=247 : ParPID=2 : AvRuntime=.01872850000000000000
+Average_Running_Children_of_ParentID=2  is 0
+PID=255 : ParPID=1 : AvRuntime=.63018180545670225385
+Average_Running_Children_of_ParentID=1  is 0
+PID=25 : ParPID=2 : AvRuntime=.11065375000000000000
+Average_Running_Children_of_ParentID=2  is 0
+PID=2621 : ParPID=2620 : AvRuntime=.44077000000000000000
+PID=2627 : ParPID=2620 : AvRuntime=.23935404273504273504
+PID=2628 : ParPID=2620 : AvRuntime=.49339489583333333333
+PID=2629 : ParPID=2620 : AvRuntime=.51265647157190635451
+PID=2631 : ParPID=2620 : AvRuntime=.49891111100658513640
+PID=2633 : ParPID=2620 : AvRuntime=.43979118095238095238
+Average_Running_Children_of_ParentID=2620  is 0
+PID=2642 : ParPID=1 : AvRuntime=.07631134065934065934
+Average_Running_Children_of_ParentID=1  is 0
+PID=2653 : ParPID=2620 : AvRuntime=.13645266962616822429
+Average_Running_Children_of_ParentID=2620  is 0
+PID=2660 : ParPID=2611 : AvRuntime=.81846911764705882352
+Average_Running_Children_of_ParentID=2611  is 0
+PID=2664 : ParPID=2620 : AvRuntime=.33662190588235294117
+Average_Running_Children_of_ParentID=2620  is 0
+PID=2666 : ParPID=2660 : AvRuntime=.40729427419354838709
+Average_Running_Children_of_ParentID=2660  is 0
+PID=26 : ParPID=2 : AvRuntime=.06028569230769230769
+Average_Running_Children_of_ParentID=2  is 0
+PID=2705 : ParPID=2620 : AvRuntime=.02856648312883435582
+PID=2716 : ParPID=2620 : AvRuntime=.70940027336860670194
+PID=2717 : ParPID=2620 : AvRuntime=.14066042857142857142
+PID=2752 : ParPID=2620 : AvRuntime=.89893042857142857142
+Average_Running_Children_of_ParentID=2620  is 0
+PID=2769 : ParPID=2 : AvRuntime=.05479028808099401748
+Average_Running_Children_of_ParentID=2  is 0
+PID=2770 : ParPID=2620 : AvRuntime=.26875554687500000000
+PID=2791 : ParPID=2620 : AvRuntime=.39135943913934859340
+Average_Running_Children_of_ParentID=2620  is 0
+PID=2792 : ParPID=2770 : AvRuntime=.20130447692307692307
+Average_Running_Children_of_ParentID=2770  is 0
+PID=27 : ParPID=2 : AvRuntime=.00179666666666666666
+Average_Running_Children_of_ParentID=2  is 0
+PID=2801 : ParPID=2792 : AvRuntime=.16835259803921568627
+Average_Running_Children_of_ParentID=2792  is 0
+PID=2808 : ParPID=2620 : AvRuntime=.69451346296296296296
+PID=2833 : ParPID=2620 : AvRuntime=.08661565979381443298
+PID=2839 : ParPID=2620 : AvRuntime=.29101550000000000000
+PID=2843 : ParPID=2620 : AvRuntime=.32561730769230769230
+PID=2848 : ParPID=2620 : AvRuntime=.23434884444444444444
+PID=2864 : ParPID=2620 : AvRuntime=.33645121212121212121
+PID=2909 : ParPID=2620 : AvRuntime=.40359597872340425531
+PID=2915 : ParPID=2620 : AvRuntime=.27221190365448504983
+Average_Running_Children_of_ParentID=2620  is 0
+PID=2916 : ParPID=2631 : AvRuntime=.20677890111248454882
+Average_Running_Children_of_ParentID=2631  is 0
+PID=2924 : ParPID=2620 : AvRuntime=.17721073474801061007
+PID=2928 : ParPID=2620 : AvRuntime=.30455337472766884531
+PID=2931 : ParPID=2620 : AvRuntime=.31382909765625000000
+PID=2943 : ParPID=2620 : AvRuntime=.46178135294117647058
+PID=2947 : ParPID=2620 : AvRuntime=.53152284722222222222
+Average_Running_Children_of_ParentID=2620  is 0
+PID=2963 : ParPID=2664 : AvRuntime=.25386720000000000000
+Average_Running_Children_of_ParentID=2664  is 0
+PID=2973 : ParPID=2620 : AvRuntime=.78443867543859649122
+PID=2974 : ParPID=2620 : AvRuntime=.18682964462809917355
+PID=2988 : ParPID=2620 : AvRuntime=.92005100000000000000
+PID=2989 : ParPID=2620 : AvRuntime=.16932986440677966101
+PID=2991 : ParPID=2620 : AvRuntime=.76126138509316770186
+Average_Running_Children_of_ParentID=2620  is 0
+PID=2993 : ParPID=2988 : AvRuntime=.02188324808699154248
+Average_Running_Children_of_ParentID=2988  is 0
+PID=2994 : ParPID=2620 : AvRuntime=.77125643243243243243
+PID=2996 : ParPID=2620 : AvRuntime=.27910703389830508474
+PID=2998 : ParPID=2620 : AvRuntime=.62067370707070707070
+PID=2999 : ParPID=2620 : AvRuntime=.60241417187500000000
+Average_Running_Children_of_ParentID=2620  is 0
+PID=29 : ParPID=2 : AvRuntime=.07046745326633165829
+Average_Running_Children_of_ParentID=2  is 0
+PID=2 : ParPID=0 : AvRuntime=.06340213445378151260
+Average_Running_Children_of_ParentID=0  is 0
+PID=3000 : ParPID=2620 : AvRuntime=.34928183018867924528
+PID=3006 : ParPID=2620 : AvRuntime=.10607736842105263157
+PID=3008 : ParPID=2620 : AvRuntime=.23844137209302325581
+PID=3009 : ParPID=2620 : AvRuntime=.34430461702127659574
+PID=3010 : ParPID=2620 : AvRuntime=.29042610256410256410
+PID=3024 : ParPID=2620 : AvRuntime=.32782923404255319148
+Average_Running_Children_of_ParentID=2620  is 0
+PID=3060 : ParPID=2770 : AvRuntime=.70150633234421364985
+Average_Running_Children_of_ParentID=2770  is 0
+PID=3062 : ParPID=2993 : AvRuntime=.60500194444444444444
+PID=3064 : ParPID=2993 : AvRuntime=.97497454581673306772
+Average_Running_Children_of_ParentID=2993  is 0
+PID=3067 : ParPID=2620 : AvRuntime=.08183642702702702702
+Average_Running_Children_of_ParentID=2620  is 0
+PID=3101 : ParPID=2770 : AvRuntime=.71670963636363636363
+Average_Running_Children_of_ParentID=2770  is 0
+PID=3134 : ParPID=2620 : AvRuntime=.80057100000000000000
+Average_Running_Children_of_ParentID=2620  is 0
+PID=3138 : ParPID=3134 : AvRuntime=.82033150000000000000
+Average_Running_Children_of_ParentID=3134  is 0
+PID=3150 : ParPID=2791 : AvRuntime=.05594668229030287160
+Average_Running_Children_of_ParentID=2791  is 0
+PID=3158 : ParPID=2620 : AvRuntime=.95851090476190476190
+Average_Running_Children_of_ParentID=2620  is 0
+PID=3163 : ParPID=2993 : AvRuntime=.02960399794111591517
+Average_Running_Children_of_ParentID=2993  is 0
+PID=3193 : ParPID=2620 : AvRuntime=.70656331506849315068
+Average_Running_Children_of_ParentID=2620  is 0
+PID=31 : ParPID=2 : AvRuntime=.01695900000000000000
+Average_Running_Children_of_ParentID=2  is 0
+PID=3200 : ParPID=2620 : AvRuntime=.75952437696335078534
+PID=3223 : ParPID=2620 : AvRuntime=.66122879310344827586
+Average_Running_Children_of_ParentID=2620  is 0
+PID=3244 : ParPID=2791 : AvRuntime=.34830216242362525458
+Average_Running_Children_of_ParentID=2791  is 0
+PID=324 : ParPID=2 : AvRuntime=.15814878521206622816
+Average_Running_Children_of_ParentID=2  is 0
+PID=3272 : ParPID=2620 : AvRuntime=.35083030705394190871
+Average_Running_Children_of_ParentID=2620  is 0
+PID=32 : ParPID=2 : AvRuntime=.05500930769230769230
+Average_Running_Children_of_ParentID=2  is 0
+PID=3304 : ParPID=2620 : AvRuntime=.69019500000000000000
+Average_Running_Children_of_ParentID=2620  is 0
+PID=3305 : ParPID=3304 : AvRuntime=.29263914285714285714
+Average_Running_Children_of_ParentID=3304  is 0
+PID=3312 : ParPID=2620 : AvRuntime=.76332800000000000000
+Average_Running_Children_of_ParentID=2620  is 0
+PID=3313 : ParPID=3312 : AvRuntime=.15124653488372093023
+Average_Running_Children_of_ParentID=3312  is 0
+PID=3322 : ParPID=3321 : AvRuntime=.54842041666666666666
+Average_Running_Children_of_ParentID=3321  is 0
+PID=3347 : ParPID=2620 : AvRuntime=.33953312000000000000
+PID=3377 : ParPID=2620 : AvRuntime=.43504112013950727218
+Average_Running_Children_of_ParentID=2620  is 0
+PID=3395 : ParPID=3377 : AvRuntime=.20899258181818181818
+Average_Running_Children_of_ParentID=3377  is 0
+PID=33 : ParPID=2 : AvRuntime=.00063333333333333333
+PID=347 : ParPID=2 : AvRuntime=.01503050000000000000
+PID=3568 : ParPID=2 : AvRuntime=.17372227241770715096
+PID=35 : ParPID=2 : AvRuntime=.10132974393203883495
+PID=37 : ParPID=2 : AvRuntime=.06571030000000000000
+PID=387 : ParPID=2 : AvRuntime=.06884943569364161849
+PID=38 : ParPID=2 : AvRuntime=.10009369230769230769
+PID=39 : ParPID=2 : AvRuntime=.00104133333333333333
+PID=3 : ParPID=2 : AvRuntime=.00178550000000000000
+PID=41 : ParPID=2 : AvRuntime=.07456085383244206773
+Average_Running_Children_of_ParentID=2  is 0
+PID=426 : ParPID=1 : AvRuntime=.52408098927038626609
+Average_Running_Children_of_ParentID=1  is 0
+PID=42 : ParPID=2 : AvRuntime=.10147509789540816326
+Average_Running_Children_of_ParentID=2  is 0
+PID=438 : ParPID=1 : AvRuntime=.91873520430107526881
+Average_Running_Children_of_ParentID=1  is 0
+PID=439 : ParPID=2 : AvRuntime=.08716024390243902439
+PID=43 : ParPID=2 : AvRuntime=.01129200000000000000
+PID=44 : ParPID=2 : AvRuntime=.03862723255813953488
+PID=45 : ParPID=2 : AvRuntime=0
+PID=47 : ParPID=2 : AvRuntime=.06323333333333333333
+PID=48 : ParPID=2 : AvRuntime=.12111510000000000000
+PID=49 : ParPID=2 : AvRuntime=.00008050000000000000
+PID=4 : ParPID=2 : AvRuntime=.00127650000000000000
+PID=51 : ParPID=2 : AvRuntime=.00005700000000000000
+PID=52 : ParPID=2 : AvRuntime=.07594848142717497556
+PID=53 : ParPID=2 : AvRuntime=0
+PID=55 : ParPID=2 : AvRuntime=0
+PID=56 : ParPID=2 : AvRuntime=0
+PID=57 : ParPID=2 : AvRuntime=.02117440000000000000
+Average_Running_Children_of_ParentID=2  is 0
+PID=588 : ParPID=1 : AvRuntime=.49501749732620320855
+PID=589 : ParPID=1 : AvRuntime=.12717509492847854356
+Average_Running_Children_of_ParentID=1  is 0
+PID=58 : ParPID=2 : AvRuntime=0
+Average_Running_Children_of_ParentID=2  is 0
+PID=593 : ParPID=1 : AvRuntime=.29600771957671957671
+PID=595 : ParPID=1 : AvRuntime=.48312481250000000000
+PID=596 : ParPID=1 : AvRuntime=.27614909665334665334
+PID=598 : ParPID=1 : AvRuntime=.17187248716632443531
+Average_Running_Children_of_ParentID=1  is 0
+PID=59 : ParPID=2 : AvRuntime=.01817300000000000000
+PID=5 : ParPID=2 : AvRuntime=.00122800000000000000
+Average_Running_Children_of_ParentID=2  is 0
+PID=606 : ParPID=1 : AvRuntime=.91024310084033613445
+PID=609 : ParPID=1 : AvRuntime=.82241689398280802292
+Average_Running_Children_of_ParentID=1  is 0
+PID=60 : ParPID=2 : AvRuntime=0
+Average_Running_Children_of_ParentID=2  is 0
+PID=613 : ParPID=1 : AvRuntime=.24567749063899063899
+PID=616 : ParPID=1 : AvRuntime=.55561385526315789473
+Average_Running_Children_of_ParentID=1  is 0
+PID=61 : ParPID=2 : AvRuntime=0
+Average_Running_Children_of_ParentID=2  is 0
+PID=6230 : ParPID=3395 : AvRuntime=.11399668421052631578
+Average_Running_Children_of_ParentID=3395  is 0
+PID=62 : ParPID=2 : AvRuntime=0
+Average_Running_Children_of_ParentID=2  is 0
+PID=635 : ParPID=1 : AvRuntime=.34246644167610419026
+PID=639 : ParPID=1 : AvRuntime=.59110620711974110032
+Average_Running_Children_of_ParentID=1  is 0
+PID=63 : ParPID=2 : AvRuntime=.01142050000000000000
+Average_Running_Children_of_ParentID=2  is 0
+PID=641 : ParPID=1 : AvRuntime=.25450861538461538461
+Average_Running_Children_of_ParentID=1  is 0
+PID=64 : ParPID=2 : AvRuntime=.01418650000000000000
+Average_Running_Children_of_ParentID=2  is 0
+PID=655 : ParPID=593 : AvRuntime=.11864833333333333333
+Average_Running_Children_of_ParentID=593  is 0
+PID=65 : ParPID=2 : AvRuntime=0
+PID=66 : ParPID=2 : AvRuntime=.20592283030949839914
+PID=67 : ParPID=2 : AvRuntime=.12181266666666666666
+Average_Running_Children_of_ParentID=2  is 0
+PID=684 : ParPID=1 : AvRuntime=.44905118568232662192
+PID=689 : ParPID=1 : AvRuntime=.56986685714285714285
+Average_Running_Children_of_ParentID=1  is 0
+PID=68 : ParPID=2 : AvRuntime=.05056800000000000000
+PID=69 : ParPID=2 : AvRuntime=.23301600000000000000
+PID=6 : ParPID=2 : AvRuntime=.00119000000000000000
+PID=71 : ParPID=2 : AvRuntime=.06829900000000000000
+PID=73 : ParPID=2 : AvRuntime=.06512350000000000000
+PID=74 : ParPID=2 : AvRuntime=.44387306521739130434
+PID=75 : ParPID=2 : AvRuntime=.04960750000000000000
+Average_Running_Children_of_ParentID=2  is 0
+PID=764 : ParPID=1 : AvRuntime=.22807297090909090909
+Average_Running_Children_of_ParentID=1  is 0
+PID=76 : ParPID=2 : AvRuntime=.17508516515994436717
+Average_Running_Children_of_ParentID=2  is 0
+PID=776 : ParPID=1 : AvRuntime=.15077704347826086956
+Average_Running_Children_of_ParentID=1  is 0
+PID=77 : ParPID=2 : AvRuntime=.14936512043795620437
+Average_Running_Children_of_ParentID=2  is 0
+PID=794 : ParPID=1 : AvRuntime=.18531160869565217391
+Average_Running_Children_of_ParentID=1  is 0
+PID=7 : ParPID=2 : AvRuntime=.13899534579439252336
+PID=80 : ParPID=2 : AvRuntime=.37290720175438596491
+PID=81 : ParPID=2 : AvRuntime=.12202400000000000000
+PID=82 : ParPID=2 : AvRuntime=.05004900000000000000
+PID=84 : ParPID=2 : AvRuntime=.05855821428571428571
+PID=86 : ParPID=2 : AvRuntime=.26390545098039215686
+PID=8 : ParPID=2 : AvRuntime=.03602025000000000000
+PID=92 : ParPID=2 : AvRuntime=.03311500000000000000
+PID=94 : ParPID=2 : AvRuntime=.06760750000000000000
+PID=98 : ParPID=2 : AvRuntime=.06518600000000000000
+PID=9 : ParPID=2 : AvRuntime=.30084937697034464333
+PID=22 : ParPID=2 : AvRuntime=1.00626315506329113924
+Average_Running_Children_of_ParentID=2  is 0,0833333
+PID=2550 : ParPID=1 : AvRuntime=1.23100941538461538461
+Average_Running_Children_of_ParentID=1  is 1
+PID=2611 : ParPID=2185 : AvRuntime=1.90242810638297872340
+Average_Running_Children_of_ParentID=2185  is 1
+PID=2620 : ParPID=1 : AvRuntime=1.27048631063829787234
+Average_Running_Children_of_ParentID=1  is 1
+PID=2723 : ParPID=2705 : AvRuntime=1.01063033333333333333
+Average_Running_Children_of_ParentID=2705  is 1
+PID=2852 : ParPID=2620 : AvRuntime=1.00137492307692307692
+Average_Running_Children_of_ParentID=2620  is 1
+PID=28 : ParPID=2 : AvRuntime=1.04216815454545454545
+Average_Running_Children_of_ParentID=2  is 1
+PID=2997 : ParPID=2620 : AvRuntime=1.00382059047619047619
+PID=3034 : ParPID=2620 : AvRuntime=1.22840011494252873563
+PID=3321 : ParPID=2620 : AvRuntime=1.01497200000000000000
+PID=3422 : ParPID=2620 : AvRuntime=1.26793607337278106508
+Average_Running_Children_of_ParentID=2620  is 1
+PID=3456 : ParPID=2770 : AvRuntime=1.10344552800000000000
+Average_Running_Children_of_ParentID=2770  is 1
+PID=34 : ParPID=2 : AvRuntime=1.10955783278688524590
+PID=3626 : ParPID=2 : AvRuntime=1.97213433333333333333
+PID=40 : ParPID=2 : AvRuntime=1.12174830194805194805
+Average_Running_Children_of_ParentID=2  is 1
+PID=537 : ParPID=1 : AvRuntime=1.10983157462686567164
+PID=617 : ParPID=1 : AvRuntime=1.02766060606060606060
+PID=625 : ParPID=1 : AvRuntime=1.80521987398373983739
+PID=626 : ParPID=1 : AvRuntime=1.37570460000000000000
+PID=711 : ParPID=1 : AvRuntime=1.10657737083333333333
+Average_Running_Children_of_ParentID=1  is 1
+PID=2676 : ParPID=2620 : AvRuntime=2.16096233333333333333
+Average_Running_Children_of_ParentID=2620  is 2
+PID=72 : ParPID=2 : AvRuntime=6.67919000000000000000
+Average_Running_Children_of_ParentID=2  is 6

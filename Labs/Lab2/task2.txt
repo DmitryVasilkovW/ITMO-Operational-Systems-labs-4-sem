@@ -1,0 +1,15 @@
+1 /sbin/init
+589 /usr/sbin/acpid
+595 /usr/sbin/cron
+598 /usr/sbin/NetworkManager
+606 /usr/sbin/irqbalance
+617 /usr/sbin/rsyslogd
+641 /sbin/wpa_supplicant
+684 /usr/sbin/ModemManager
+689 /usr/sbin/cupsd
+764 /usr/sbin/cups-browsed
+776 /usr/sbin/kerneloops
+794 /usr/sbin/kerneloops
+1684 /usr/sbin/VBoxService
+2185 /usr/sbin/gdm3
+3650 grep

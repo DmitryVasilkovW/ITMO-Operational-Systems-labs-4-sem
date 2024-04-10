@@ -1,0 +1,122 @@
+amount of processes: 121
+      1 /sbin/init splash
+      2 [kthreadd]
+      3 [rcu_gp]
+      4 [rcu_par_gp]
+      5 [slub_flushwq]
+      6 [netns]
+      7 [kworker/0:0-cgroup_destroy]
+      8 [kworker/0:0H-events_highpri]
+      9 [kworker/0:1-events]
+     11 [mm_percpu_wq]
+     12 [rcu_tasks_kthread]
+     13 [rcu_tasks_rude_kthread]
+     14 [rcu_tasks_trace_kthread]
+     15 [ksoftirqd/0]
+     16 [rcu_preempt]
+     17 [migration/0]
+     18 [idle_inject/0]
+     19 [cpuhp/0]
+     20 [cpuhp/1]
+     21 [idle_inject/1]
+     22 [migration/1]
+     23 [ksoftirqd/1]
+     25 [kworker/1:0H-events_highpri]
+     26 [cpuhp/2]
+     27 [idle_inject/2]
+     28 [migration/2]
+     29 [ksoftirqd/2]
+     31 [kworker/2:0H-events_highpri]
+     32 [cpuhp/3]
+     33 [idle_inject/3]
+     34 [migration/3]
+     35 [ksoftirqd/3]
+     37 [kworker/3:0H-kblockd]
+     38 [cpuhp/4]
+     39 [idle_inject/4]
+     40 [migration/4]
+     41 [ksoftirqd/4]
+     42 [kworker/4:0-events]
+     43 [kworker/4:0H-kblockd]
+     44 [kdevtmpfs]
+     45 [inet_frag_wq]
+     47 [kauditd]
+     48 [khungtaskd]
+     49 [oom_reaper]
+     51 [writeback]
+     52 [kcompactd0]
+     53 [ksmd]
+     55 [khugepaged]
+     56 [kintegrityd]
+     57 [kblockd]
+     58 [blkcg_punt_bio]
+     59 [tpm_dev_wq]
+     60 [ata_sff]
+     61 [md]
+     62 [md_bitmap]
+     63 [edac-poller]
+     64 [devfreq_wq]
+     65 [watchdogd]
+     66 [kworker/1:1H-kblockd]
+     67 [kswapd0]
+     68 [ecryptfs-kthread]
+     69 [kthrotld]
+     71 [acpi_thermal_pm]
+     72 [scsi_eh_0]
+     73 [scsi_tmf_0]
+     74 [scsi_eh_1]
+     75 [scsi_tmf_1]
+     76 [kworker/u10:3-events_power_efficient]
+     77 [kworker/u10:4-events_power_efficient]
+     80 [kworker/2:1-cgwb_release]
+     81 [mld]
+     82 [ipv6_addrconf]
+     84 [kworker/4:2-cgroup_destroy]
+     86 [kworker/4:1H-kblockd]
+     92 [kstrp]
+     94 [kworker/u11:0]
+     98 [charger_manager]
+    121 [kworker/0:1H-kblockd]
+    135 [kworker/2:1H-kblockd]
+    143 [scsi_eh_2]
+    144 [scsi_tmf_2]
+    150 [kworker/2:2-events]
+    171 [jbd2/sda3-8]
+    172 [ext4-rsv-conver]
+    211 /lib/systemd/systemd-journald
+    240 [kworker/1:3-cgroup_destroy]
+    241 [kworker/3:3-events]
+    246 [irq/18-vmwgfx]
+    247 [ttm]
+    255 /lib/systemd/systemd-udevd
+    324 [kworker/u10:9-ext4-rsv-conversion]
+    347 [cryptd]
+    387 [kworker/3:2H-kblockd]
+    439 [kworker/3:5-cgroup_destroy]
+    588 /usr/libexec/accounts-daemon
+    589 /usr/sbin/acpid
+    595 /usr/sbin/cron -f -P
+    598 /usr/sbin/NetworkManager --no-daemon
+    606 /usr/sbin/irqbalance --foreground
+    609 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+    613 /usr/libexec/polkitd --no-debug
+    616 /usr/libexec/power-profiles-daemon
+    625 /usr/lib/snapd/snapd
+    626 /usr/libexec/switcheroo-control
+    635 /lib/systemd/systemd-logind
+    639 /usr/libexec/udisks2/udisksd
+    641 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+    684 /usr/sbin/ModemManager
+    689 /usr/sbin/cupsd -l
+    711 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+    764 /usr/sbin/cups-browsed
+   1682 /usr/bin/VBoxDRMClient
+   1684 /usr/sbin/VBoxService --pidfile /var/run/vboxadd-service.sh
+   2185 /usr/sbin/gdm3
+   2365 /usr/libexec/upowerd
+   2379 /usr/libexec/packagekitd
+   2611 gdm-session-worker [pam/gdm-password]
+   2723 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+   2769 [kworker/1:4-events]
+   3568 [kworker/u10:0-events_unbound]
+   3626 [kworker/1:0-cgroup_destroy]
