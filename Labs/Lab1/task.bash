@@ -7,7 +7,7 @@ if [[ ! -f "$file_name" ]]; then
     exit 1
 fi
 
-if [[ $file_name =~ [^a-zA-Z0-9._-] ]]; then
+if [[ $file_name =~ [^a-zA-Z0-9\._-] ]]; then
     echo "Invalid characters in file name"
     exit 2
 fi
