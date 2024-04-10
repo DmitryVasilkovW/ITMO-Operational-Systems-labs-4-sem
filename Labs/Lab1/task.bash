@@ -13,10 +13,18 @@ if [[ $file_name =~ [^a-zA-Z0-9._-] ]]; then
 fi
 
 sed '/#TEMPLATE/d' $file_name > "${file_name%.*}.sh"
-sed -i '1i #!/bin/bash' "${file_name%.*}.sh"
 
-trap 'rm -f "${file_name%.*}.sh" exit 1' INT
+file_name="${file_name%.*}.sh"
+
+sed -i '1i #!/bin/bash' $file_name
+
+trap 'rm -f "$file_name"' exit 1 INT
 
 echo "Press ^C to cancel the installation"
-sleep 10
+sleep 5
 echo -e "\033[2K\033[1A\033[2K"
+
+if [[ -f "$file_name" ]]; then
+    chmod +x "$$file_name"
+    echo "Created $$file_name"
+fi
