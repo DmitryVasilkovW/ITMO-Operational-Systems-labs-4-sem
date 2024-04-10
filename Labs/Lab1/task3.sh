@@ -3,7 +3,7 @@
 while true; do
   echo "menu:"
   echo "1. nano"
-  echo "2. ui"
+  echo "2. vi"
   echo "3. links"
   echo "4. exit"
   echo -n "Enter menu option "
