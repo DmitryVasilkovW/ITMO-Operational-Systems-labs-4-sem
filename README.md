@@ -1,18 +1,14 @@
 # ITMO-Operational-Systems-labs-4-sem
 
-# [Labs](#lab-1)
-   | Labs  (1-3)        | Labs (4-6)          |
-|---------------|----------------|
-| [lab 1](#lab-1) | [lab 4](#lab-4) |
-| [lab 2](#lab-2) | [lab 5](#lab-5) |
-| [lab 3](#lab-3) | [lab 6](#lab-6) |
+# [Labs](#lab-1) |  [Tests](#test-1)
+| Labs  (1-3)        | Labs (4-6)   | Tests (1-3)         | Tests (4-5)     |
+|---------------|----------------|---------------|----------------|
+| [lab 1](#lab-1) | [lab 4](#lab-4) | [test 1](#test-1) | [test 4](#test-4) |
+| [lab 2](#lab-2) | [lab 5](#lab-5) | [test 2](#test-2) | [test 5](#test-5) |
+| [lab 3](#lab-3) | [lab 6](#lab-6) | [test 3](#test-3) | [test 6](#test-6) |
 
-# [Tests](#test-1)
-   | Tests (1-3)         | Tests (4-5)         |
-|---------------|----------------|
-| [test 1](#test-1) | [test 4](#test-4) |
-| [test 2](#test-2) | [test 5](#test-5) |
-| [test 3](#test-3) | [test 6](#test-6) |
+
+
 
 ## Lab 1
 
