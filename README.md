@@ -1,12 +1,25 @@
 # ITMO-Operational-Systems-labs-4-sem
 
 # [Labs](#lab-1)
+   ### [lab 1](#lab-1)
+   ### [lab 2](#lab-2)
+   ### [lab 3](#lab-3)
+   ### [lab 4](#lab-4)
+   ### [lab 5](#lab-5)
+   ### [lab 6](#lab-6)
+
 # [Tests](#test-1)
+   ### [test 1](#test-1)
+   ### [test 2](#test-2)
+   ### [test 3](#test-3)
+   ### [test 4](#test-4)
+   ### [test 5](#test-5)
+   ### [test 6](#test-6)
 
 ## Lab 1
 
 ### [task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReferenceAndTests/Lab1.md)
-
+### [Extra task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReferenceAndTests/Task1.md)
 ### [manual](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReferenceAndTests/Lab1.pdf)
 
 ## Lab 2
