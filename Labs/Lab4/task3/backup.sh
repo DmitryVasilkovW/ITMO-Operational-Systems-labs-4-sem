@@ -25,7 +25,7 @@ then
     
     for file in $(ls $home_dir/source);
     do
-        cp "$home_dir/source/$file" "$backup_dir/Backup-$today"
+        cp -r "$home_dir/source/$file" "$backup_dir/Backup-$today"
     done
     
     file_list=$(ls $home_dir/source | sed "s/^/\t/")
@@ -58,14 +58,14 @@ else
                 fi
                 
                 mv "$last_backup/$file" "$last_backup/$file.$today"
-                cp "$home_dir/source/$file" $last_backup
+                cp -r "$home_dir/source/$file" $last_backup
                 
                 changes="${changes}\n\t$file ($file.$today)"
                 
                 backup_created=1
             fi
         else
-            cp "$home_dir/source/$file" $last_backup
+            cp -r "$home_dir/source/$file" $last_backup
             
             changes="${changes}\n\t$file"
             
