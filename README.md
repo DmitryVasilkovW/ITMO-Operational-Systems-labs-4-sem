@@ -7,8 +7,9 @@
 | [lab 2](#lab-2) | [lab 5](#lab-5) | [test 2](#test-2) | [test 5](#test-5) |
 | [lab 3](#lab-3) | [lab 6](#lab-6) | [test 3](#test-3) | [test 6](#test-6) |
 
-
-
+---
+За тесты большое спасибо [Паше❤️](https://github.com/Dor1ma)
+---
 
 ## Lab 1
 
