@@ -3,13 +3,11 @@ import pandas as pd
 import os
 
 def process_data(data):
-    # Преобразование строки времени в секунды
-    data['TIME'] = data['TIME'].apply(lambda x: sum(float(y.replace(',', '.')) * 60 ** i for i, y in enumerate(reversed(x.split(":")))))
+    data['TIME'] = data['TIME'].astype(str).apply(lambda x: sum(float(y.replace(',', '.')) * 60 ** i for i, y in enumerate(reversed(x.split(":")))))
     data.sort_values(by='TIME', inplace=True)
     data['MEM'] = data['MEM'].str.replace(',', '.').astype(float)
     data['SWAP'] = data['SWAP'].str.replace(',', '.').astype(float)
-    data['CPU'] = data['CPU'].str.replace(',', '.').astype(float)  # Преобразование столбца CPU в числа с плавающей точкой
-    # Преобразование столбца RES в числа с плавающей точкой
+    data['CPU'] = data['CPU'].str.replace(',', '.').astype(float)
     data['RES'] = data['RES'].apply(lambda x: float(x.replace('g', '').replace('m', '').replace(',', '.')) * 1024 if isinstance(x, str) and 'g' in x else float(x.replace('m', '').replace(',', '.')) if isinstance(x, str) and 'm' in x else float(x.replace(',', '.')) if isinstance(x, str) else x)
     return data
 
@@ -43,17 +41,15 @@ def plot_data(data, output_file):
 
     plt.savefig(os.path.join(os.getcwd(), output_file))
 
-# Обработка данных из файла data1
-file_path1 = os.path.expanduser('~/Desktop/ITMO-Operational-Systems-labs-4-sem/Labs/Lab5/firstExp/data/data1')
+
+file_path1 = os.path.expanduser('/Users/dmitryvasilkov/PycharmProjects/ITMO-Operational-Systems-labs-4-sem/Labs/Lab5/firstExp/data/data1')
 data1 = pd.read_csv(file_path1, sep=' ', skiprows=1, header=None)
 data1.columns = ['TIME', 'MEM', 'VIRT', 'RES', 'SHR', 'CPU', 'FREE', 'SWAP']
 data1 = process_data(data1)
 plot_data(data1, 'output1.png')
 
-# Обработка данных из файла data2
-file_path2 = os.path.expanduser('~/Desktop/ITMO-Operational-Systems-labs-4-sem/Labs/Lab5/firstExp/data/data2')
+file_path2 = os.path.expanduser('/Users/dmitryvasilkov/PycharmProjects/ITMO-Operational-Systems-labs-4-sem/Labs/Lab5/firstExp/data/data2')
 data2 = pd.read_csv(file_path2, sep=' ', skiprows=1, header=None)
 data2.columns = ['TIME', 'MEM', 'VIRT', 'RES', 'SHR', 'CPU', 'FREE', 'SWAP']
 data2 = process_data(data2)
 plot_data(data2, 'output2.png')
-
