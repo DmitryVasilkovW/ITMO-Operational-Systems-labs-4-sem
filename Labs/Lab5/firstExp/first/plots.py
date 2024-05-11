@@ -7,7 +7,7 @@ file_path = os.path.expanduser('~/Desktop/ITMO-Operational-Systems-labs-4-sem/La
 data = pd.read_csv(file_path, sep=' ', skiprows=1, header=None)
 data.columns = ['TIME', 'MEM', 'VIRT', 'RES', 'SHR', 'CPU', 'FREE', 'SWAP']
 
-# Преобразование строки времени в секунды
+
 data['TIME'] = data['TIME'].apply(lambda x: sum(float(y.replace(',', '.')) * 60 ** i for i, y in enumerate(reversed(x.split(":")))))
 
 data.sort_values(by='TIME', inplace=True)
