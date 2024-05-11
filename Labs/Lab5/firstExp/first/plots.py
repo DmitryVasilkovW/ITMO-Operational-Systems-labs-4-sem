@@ -14,7 +14,7 @@ data.sort_values(by='TIME', inplace=True)
 
 data['MEM'] = data['MEM'].str.replace(',', '.').astype(float)
 data['SWAP'] = data['SWAP'].str.replace(',', '.').astype(float)
-data['CPU'] = data['CPU'].str.replace(',', '.').astype(float)  # Преобразование столбца CPU в числа с плавающей точкой
+data['CPU'] = data['CPU'].str.replace(',', '.').astype(float)
 data['RES'] = data['RES'].apply(lambda x: float(x.replace('g', '').replace(',', '.')) * 1024 if isinstance(x, str) and 'g' in x else float(x.replace(',', '.')) if isinstance(x, str) else x)
 
 fig, axs = plt.subplots(4, figsize=(10, 15))
