@@ -13,39 +13,39 @@
 
 ## Lab 1
 
-### [task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReferenceAndTests/Lab1.md)
-### [Extra task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReferenceAndTests/Task1.md)
-### [manual](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReferenceAndTests/Lab1.pdf)
+### [task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReference/Lab1.md)
+### [Extra task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReference/Task1.md)
+### [manual](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReference/Lab1.pdf)
 
 ## Lab 2
 
-### [task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReferenceAndTests/Lab2.md)
-### [Extra task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReferenceAndTests/Task2.md)
-### [manual](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReferenceAndTests/Lab2.pdf)
+### [task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReference/Lab2.md)
+### [Extra task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReference/Task2.md)
+### [manual](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReference/Lab2.pdf)
 
 ## Lab 3
 
-### [task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReferenceAndTests/Lab3.md)
-### [Extra task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReferenceAndTests/Task3.md)
-### [manual](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReferenceAndTests/Lab3.pdf)
+### [task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReference/Lab3.md)
+### [Extra task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReference/Task3.md)
+### [manual](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReference/Lab3.pdf)
 
 ## Lab 4
 
-### [task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReferenceAndTests/Lab4.md)
-### [Extra task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReferenceAndTests/Task4.md)
-### [manual](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReferenceAndTests/Lab4.pdf)
+### [task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReference/Lab4.md)
+### [Extra task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReference/Task4.md)
+### [manual](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReference/Lab4.pdf)
 
 ## Lab 5
 
-### [task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReferenceAndTests/Lab5.md)
-### [Extra task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReferenceAndTests/Task5.md)
-### [manual](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReferenceAndTests/Lab5.pdf)
+### [task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReference/Lab5.md)
+### [Extra task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReference/Task5.md)
+### [manual](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReference/Lab5.pdf)
 
 ## Lab 6
 
-### [task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReferenceAndTests/Lab6.md)
-### [Extra task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReferenceAndTests/Task6.md)
-### [manual](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReferenceAndTests/Lab6.pdf)
+### [task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReference/Lab6.md)
+### [Extra task](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReference/Task6.md)
+### [manual](https://github.com/DmitryVasilkovW/ITMO-Operational-Systems-labs-4-sem/blob/main/TermsOfReference/Lab6.pdf)
 
 ## Test 1
 
